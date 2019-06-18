@@ -1,0 +1,195 @@
+{
+	"nom": "Dictionnaires",
+	"mot-arabe": [
+		{
+			"autochtone": "et",
+			"arabe": 0
+		},
+		{
+			"autochtone": "[Zz][ée]ro[s]?",
+			"arabe": 0
+		},
+		{
+			"autochtone": "[Uu]n[e]?",
+			"arabe": 1
+		},
+		{
+			"autochtone": "[Dd]eux",
+			"arabe": 2
+		},
+		{
+			"autochtone": "[Tt]rois",
+			"arabe": 3
+		},
+		{
+			"autochtone": "[Qq]uatre",
+			"arabe": 4
+		},
+		{
+			"autochtone": "[Cc]inq$",
+			"arabe": 5
+		},
+		{
+			"autochtone": "[Ss]ix",
+			"arabe": 6
+		},
+		{
+			"autochtone": "[Ss]ept$",
+			"arabe": 7
+		},
+		{
+			"autochtone": "[Hh]uit",
+			"arabe": 8
+		},
+		{
+			"autochtone": "[Nn]euf",
+			"arabe": 9
+		},
+		{
+			"autochtone": "[Dd]ix",
+			"arabe": 10
+		},
+		{
+			"autochtone": "[Oo]nze",
+			"arabe": 11
+		},
+		{
+			"autochtone": "[Dd]ouze",
+			"arabe": 12
+		},
+		{
+			"autochtone": "[Tt]reize",
+			"arabe": 13
+		},
+		{
+			"autochtone": "[Qq]uatorze",
+			"arabe": 14
+		},
+		{
+			"autochtone": "[Qq]uinze",
+			"arabe": 15
+		},
+		{
+			"autochtone": "[Ss]eize",
+			"arabe": 16
+		},
+		{
+			"autochtone": "[Vv]ingt[s]?",
+			"arabe": 20
+		},
+		{
+			"autochtone": "[Tt]rente",
+			"arabe": 30
+		},
+		{
+			"autochtone": "[Qq]uarante",
+			"arabe": 40
+		},
+		{
+			"autochtone": "[Cc]inquante",
+			"arabe": 50
+		},
+		{
+			"autochtone": "[Ss]oixante",
+			"arabe": 60
+		},
+		{
+			"autochtone": "[Ss]eptante",
+			"arabe": 70
+		},
+		{
+			"autochtone": "[Oo]ctante",
+			"arabe": 80
+		},
+		{
+			"autochtone": "[Nn]onante",
+			"arabe": 90
+		},
+		{
+			"autochtone": "[Cc]ent[s]?",
+			"arabe": 100
+		},
+		{
+			"autochtone": "[Mm]il[s]?$|[Mm]il{2}e[s]?",
+			"arabe": 1000
+		},
+		{
+			"autochtone": "[Mm]illion[s]?",
+			"arabe": 1000000
+		},
+		{
+			"autochtone": "[Mm]illiard[s]?",
+			"arabe": 1000000000
+		},
+		{
+			"autochtone": "[Bb]illion[s]?",
+			"arabe": 1000000000000
+		},
+		{
+			"autochtone": "[Bb]illiard[s]?",
+			"arabe": 1000000000000000
+		},
+		{
+			"autochtone": "[Tt]rillion[s]?",
+			"arabe": 1000000000000000000
+		},
+		{
+			"autochtone": "[Tt]rilliard[s]?",
+			"arabe": 1000000000000000000000
+		}
+	],
+	"romain-arabe": [
+		{
+			"autochtone": "I",
+			"arabe": 1
+		},
+		{
+			"autochtone": "V",
+			"arabe": 5
+		},
+		{
+			"autochtone": "X",
+			"arabe": 10
+		},
+		{
+			"autochtone": "L",
+			"arabe": 50
+		},
+		{
+			"autochtone": "C",
+			"arabe": 100
+		},
+		{
+			"autochtone": "D",
+			"arabe": 500
+		},
+		{
+			"autochtone": "M",
+			"arabe": 1000
+		},
+		{
+			"autochtone": "IV",
+			"arabe": -2
+		},
+		{
+			"autochtone": "IX",
+			"arabe": -2
+		},
+		{
+			"autochtone": "XL",
+			"arabe": -20
+		},
+		{
+			"autochtone": "XC",
+			"arabe": -20
+		},
+		{
+			"autochtone": "CD",
+			"arabe": -200
+		},
+		{
+			"autochtone": "CM",
+			"arabe": -200
+		}
+	]
+}
